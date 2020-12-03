@@ -1,7 +1,4 @@
 import tkinter as tk
-import threading
-from msvcrt import getch
-#from getkey import getkey, keys
 from tkinter import *
 from PIL import ImageTk, Image
 from tkinter import filedialog
